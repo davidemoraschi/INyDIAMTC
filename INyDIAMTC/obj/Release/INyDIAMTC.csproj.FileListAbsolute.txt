@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Release\INyDIAMTC.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Release\INyDIAMTC.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Release\INyDIAMTC.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Release\INyDIAMTC.pdb

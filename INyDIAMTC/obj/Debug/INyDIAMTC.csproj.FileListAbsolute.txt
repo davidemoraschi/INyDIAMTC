@@ -1,0 +1,11 @@
+d:\my dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Debug\ResolveAssemblyReference.cache
+d:\my dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Debug\INyDIAMTC.dll
+d:\my dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Debug\INyDIAMTC.pdb
+d:\my dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Debug\INyDIAMTC.dll
+d:\my dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Debug\INyDIAMTC.pdb
+D:\My Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Debug\InhecoMTCdll.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Debug\INyDIAMTC.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Debug\INyDIAMTC.dll
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\bin\Debug\INyDIAMTC.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Dropbox\SOURCES\INyDIAMTC\INyDIAMTC\obj\Debug\INyDIAMTC.pdb
